@@ -1,11 +1,12 @@
 {
 	"name": "Noctaneous",
 	"version": "0.0.1",
+	"description": "Node app for Noctaneous"
 	"dependencies": {
 		"express": "3.1.x"
 	},
 	"engines": {
-		"node": "0.10.x",
-		"npm": "1.2.x"
+		"node": "0.10.15",
+		"npm": "1.3.5"
 	}
 }

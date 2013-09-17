@@ -1,7 +1,7 @@
 {
 	"name": "Noctaneous",
 	"version": "0.0.1",
-	"description": "Node app for Noctaneous"
+	"description": "Node app for Noctaneous",
 	"dependencies": {
 		"express": "3.1.x"
 	},
